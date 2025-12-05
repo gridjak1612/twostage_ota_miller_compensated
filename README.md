@@ -50,7 +50,7 @@ The notes also address non-ideal effects found in physical silicon implementatio
 
 ## 📚 References
 * Analog CMOS Integrated Circuits (Razavi / Gray & Meyer topologies).
-* Course Lecture Notes (Handwritten derivations included in `/docs`).
+
 
 ---
 *This repository serves as a reference for analog circuit designers and students studying frequency compensation techniques in CMOS amplifiers.*
